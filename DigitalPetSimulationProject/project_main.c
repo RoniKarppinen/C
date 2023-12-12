@@ -1,5 +1,3 @@
-/* Creators */
-// Roni Karppinen, Luan Trieu, Valtteri Jokisaari
 
 /* C Standard library */
 #include <stdio.h>
